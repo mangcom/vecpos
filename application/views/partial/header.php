@@ -122,7 +122,7 @@
 						<span class="icon-bar"></span>
 					</button>
 
-					<a class="navbar-brand hidden-sm" href="<?php echo site_url(); ?>">VECPOS</a>
+					<a class="navbar-brand hidden-sm" href="<?php echo site_url(); ?>">Vocational Point Of Sale</a>
 				</div>
 
 				<div class="navbar-collapse collapse">

@@ -66,6 +66,6 @@ $lang["common_unknown"] = "ไม่ทราบ";
 $lang["common_view_recent_sales"] = "การขายล่าสุด";
 $lang["common_website"] = "เว็บไซต์ opensourcepos.org";
 $lang["common_welcome"] = "ยินดีต้อนรับ";
-$lang["common_welcome_message"] = "ยินดีต้อนรับสู่ VECPOS, กรุณาเลือกโมดูลด้านล่างที่ต้องการทำงาน";
+$lang["common_welcome_message"] = "ยินดีต้อนรับสู่ระบบบริหารร้านค้าปลีก<br>Vocational Point Of Sale<br>กรุณาเลือกโมดูลด้านล่างที่ต้องการทำงาน";
 $lang["common_you_are_using_ospos"] = "คุณกำลังใช้ โอเพนซอร์ส พีโอเอส รุ่น";
 $lang["common_zip"] = "รหัสไปรษณีย์";
